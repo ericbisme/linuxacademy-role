@@ -1,0 +1,15 @@
+{
+  "name": "linuxacademy-role",
+  "version": "0.1.0",
+  "author": "linuxacademy",
+  "summary": "Linux Academy PPT-204 Roles",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ericbisme/linuxacademy-role.git",
+  "project_page": "https://github.com/ericbisme/linuxacademy-role.git",
+  "issues_url": "https://github.com/ericbisme/linuxacademy-role.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
